@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+ int r=5;
+ int v=4*3*r*r*r*3.14/3;
+ printf(" the volume is %d", v);
+ 
+
+    return 0;
+}
